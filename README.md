@@ -1,2 +1,23 @@
-# einstieg-in-c
-Einstieg in C
+# Einstieg in C
+
+- [x] Eine erste Einführung
+- [x] Unser erstes Programm
+- [x] Verschiedene Arten von Daten
+- [ ] Verschiedene Fälle in einem Programm
+- [ ] Programmteile wiederholen
+- [ ] Programme übersichtlich aufteilen
+- [ ] Grosse Datenmengen speichern
+- [ ] Zeichen und Texte speichern
+- [ ] Indirikte Zugriff mit Zeigern
+- [ ] Unterschiedliche Daten zusammenfassen
+- [ ] Daten auf der Festplatte
+- [ ] Eine Vertiefung der bisherigen Themen
+- [ ] Daten dynamisch im Speicher verwalten
+- [ ] Arbeiten mit Zahlen
+- [ ] Präprozessor-Anweisungen
+- [ ] Zugriff auf Dateien und Verzeichnisse
+- [ ] Umgang mit Datum und Uhrzeit
+- [ ] Kommunikation mit dem Betriebssystem
+- [ ] Datenbanken
+- [ ] Beispielprojekte
+- [ ] Grafische Benutzeroberflächen mit GTK+
